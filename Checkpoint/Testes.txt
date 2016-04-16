@@ -1,0 +1,11 @@
+Testes Pacman
+
+- Teste de movimento;
+
+- Teste de Derrota;
+
+- Teste de morte de fantasma;
+
+- Teste de passagem para nivel seguinte;
+
+- Teste de movimento de fantasma;

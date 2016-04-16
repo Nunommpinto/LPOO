@@ -1,0 +1,15 @@
+0 -> vazio ;
+8 -> vazio com barreira em baixo ;
+9 -> vazio com barreira a esquerda e em baixo ;
+
+16 -> ponto ; 
+17 -> ponto com barreira a esquerda ;
+18 -> ponto com barreira em cima ;
+19 -> ponto com barreira a esquerda e em cima ;
+20 -> ponto com barreira a direita ;
+21 -> ponto com barreira a direita  e esquerda ;
+22 -> ponto com barreira a direta e em cima ;
+24 -> ponto com barreira em baixo ;
+25 -> ponto com barreira a esquerda e em baixo;
+26 -> ponto com barreira em cima e em baixo ;
+28 -> ponto com barreira a direta e em baixo ;
